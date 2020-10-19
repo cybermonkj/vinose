@@ -28,7 +28,6 @@
     "My Wishlist": "My Wishlist",
     "Need an account?": "Need an account?",
     "Order History": "Order History",
-    "Page Not Found!": "Page Not Found!",
     "Password": "Password",
     "Phone": "Phone",
     "Please login first": "Please login first",
@@ -38,7 +37,6 @@
     "Register Now": "Register Now",
     "Registration": "Registration",
     "Related products": "Related products",
-    "Return Home": "Return Home",
     "Return Policy": "Return Policy",
     "Reviews": "Reviews",
     "See All": "See All",
@@ -46,7 +44,6 @@
     "Send": "Send",
     "Sign In": "Sign In",
     "Sign in": "Sign in",
-    "Sorry, but the page you are looking for has not been found on our server.": "Sorry, but the page you are looking for has not been found on our server.",
     "Subscribe": "Subscribe",
     "Support Policy": "Support Policy",
     "Support Ticket": "Support Ticket",
@@ -57,6 +54,5 @@
     "Wishlist": "Wishlist",
     "Your Cart is empty": "Your Cart is empty",
     "Your Email Address": "Your Email Address",
-    "Your Question": "Your Question",
-    "404": "404"
+    "Your Question": "Your Question"
 }
